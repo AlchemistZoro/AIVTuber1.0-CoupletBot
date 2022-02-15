@@ -1,0 +1,8 @@
+*/bili-bot
+docs
+refer
+*/.vector_cache/*
+*/data/*
+*/model/*
+*/pic/*
+*/__pycache__
