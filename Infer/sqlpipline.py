@@ -10,10 +10,10 @@ from datetime import datetime
 
 
 
-MYSQL_DBNAME=''
-MYSQL_HOST=''
-MYSQL_USER= ''
-MYSQL_PASSWD= ''
+MYSQL_DBNAME='liveDanmu'
+MYSQL_HOST='1.15.5.94'
+MYSQL_USER= 'root'
+MYSQL_PASSWD= '123456'
 MYSQL_PORT= 3306
 
 
