@@ -3,8 +3,8 @@ import requests
 '''
 文本审核接口
 '''
-AK='HPA7ND1U6fuMGUKuhfVQ2eM2'
-SK='76zhXInHKl0SASyHxebtZlhwcpyzqze7'
+AK=''
+SK=''
 
 def IsToxic(text):
     host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id={}&client_secret={}'.format(AK,SK)

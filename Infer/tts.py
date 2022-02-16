@@ -17,8 +17,8 @@ else:
     from urllib2 import URLError
     from urllib import urlencode
 
-API_KEY = '2NpUfz9TuEi5jG8X9lUiO9Gk'
-SECRET_KEY = 'ACISfqOpfMMUX8DZyCvl8iPRv1rw7vSG'
+API_KEY = ''
+SECRET_KEY = ''
 
 TEXT = "大家好，我叫莎莎，今年24岁。"
 
